@@ -24,7 +24,7 @@ Mi nombre es **Jaider Mendoza**
 ***
 ### <a id="contacto"></a> Contacto
 [![](https://img.icons8.com/?size=35&id=13930&format=png)](https://www.linkedin.com/in/jaider-mendoza-566aa31a8/)
-[![](https://img.icons8.com/?size=34&id=37246&format=png)](mailto:jaiderstyvenmendoza@gmail.com)
+[![](https://img.icons8.com/?size=34&id=37246&format=png)](mailto:jaidermendoza02d@gmail.com)
 
 ***
 #### En este repositorio encontraras...
