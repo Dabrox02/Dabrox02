@@ -4,7 +4,7 @@
 
 Mi nombre es **Jaider Mendoza**
 <br>Soy un programador Colombiano, apasionado por la programacion, la tecnologia y la innovacion.
-
+![](https://www.codewars.com/users/Dabrox02/badges/large)
 ## Secciones
 - [Ir a Habilidades](#habilidades)
 - [Ir a Contacto](#contacto)
