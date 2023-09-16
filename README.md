@@ -4,10 +4,11 @@
 
 Mi nombre es **Jaider Mendoza**
 <br>Soy un programador Colombiano, apasionado por la programacion, la tecnologia y la innovacion.
-![](https://www.codewars.com/users/Dabrox02/badges/large)
+
 ## Secciones
 - [Ir a Habilidades](#habilidades)
-- [Ir a Contacto](#contacto)
+- [Ir a Hobbies](#hobbies)
+- [Ir a Contacto](#contacto) 
 
 ***
 ### <a id="habilidades"></a>Habilidades
@@ -20,6 +21,10 @@ Mi nombre es **Jaider Mendoza**
 ![](https://img.icons8.com/?size=45&id=20906&format=png)
 ![](https://img.icons8.com/?size=40&id=38561&format=png)
 ![](https://img.icons8.com/?size=45&id=UFXRpPFebwa2&format=png)
+
+***
+### <a id="hobbies"></a> Hobbies
+![](https://www.codewars.com/users/Dabrox02/badges/large)
 
 ***
 ### <a id="contacto"></a> Contacto
