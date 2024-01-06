@@ -34,4 +34,5 @@ Mi nombre es **Jaider Mendoza**
 ***
 #### En este repositorio encontraras...
 * [Proyecto Escenario Sena](https://github.com/Dabrox02/proyecto-escenario-php-sena)
+* [Generador Curriculum](https://github.com/Dabrox02/filtro-generador-cv)
   
