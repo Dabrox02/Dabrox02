@@ -27,7 +27,7 @@ Mi nombre es **Jaider Mendoza**
 ![](https://img.icons8.com/?size=45&id=nUFOCFvI5eIk&format=png)
 ![](https://img.icons8.com/?size=45&id=62452&format=png)
 ![](https://img.icons8.com/?size=45&id=WHRLQdbEXQ16&format=png)
-![](https://img.icons8.com/?size=256&id=VLKafOkk3sBX&format=png)
+![](https://img.icons8.com/?size=45&id=VLKafOkk3sBX&format=png)
 
 ***
 ### <a id="hobbies"></a> Hobbies
