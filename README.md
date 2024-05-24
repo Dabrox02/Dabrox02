@@ -14,6 +14,7 @@ Mi nombre es **Jaider Mendoza**
 ![](https://img.icons8.com/?size=45&id=13441&format=png)
 ![](https://img.icons8.com/?size=45&id=13679&format=png)
 ![](https://img.icons8.com/?size=45&id=hsPbhkOH4FMe&format=png)
+![](https://img.icons8.com/?size=45&id=108784&format=png)
 ![](https://img.icons8.com/?size=45&id=13460&format=png)
 ![](https://img.icons8.com/?size=45&id=40670&format=png)
 ![](https://img.icons8.com/?size=45&id=117561&format=png)
@@ -24,6 +25,9 @@ Mi nombre es **Jaider Mendoza**
 ![](https://img.icons8.com/?size=45&id=17842&format=png)
 ![](https://img.icons8.com/?size=45&id=l9a5tcSnBwcf&format=png)
 ![](https://img.icons8.com/?size=45&id=nUFOCFvI5eIk&format=png)
+![](https://img.icons8.com/?size=45&id=62452&format=png)
+![](https://img.icons8.com/?size=45&id=WHRLQdbEXQ16&format=png)
+![](https://img.icons8.com/?size=256&id=VLKafOkk3sBX&format=png)
 
 ***
 ### <a id="hobbies"></a> Hobbies
