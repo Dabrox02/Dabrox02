@@ -26,6 +26,8 @@ Soy **Jaider Mendoza**, un apasionado programador y desarrollador de software de
 ![](https://img.icons8.com/?size=45&id=62452&format=png)
 ![](https://img.icons8.com/?size=45&id=WHRLQdbEXQ16&format=png)
 ![](https://img.icons8.com/?size=45&id=VLKafOkk3sBX&format=png)
+![](https://img.icons8.com/?size=100&id=122637&format=png&color=21CAFF)
+
 
 ***
 ### <a id="hobbies"></a> Hobbies
